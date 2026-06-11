@@ -1,1 +1,1 @@
-Some general lab courses helper tools, amnd some scripts for specific labs
+Some general lab courses helper tools, and some scripts for specific labs
